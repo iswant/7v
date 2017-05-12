@@ -20,9 +20,7 @@ echo -e "Username: $uname"
 echo -e "Password: $pass"
 echo -e "-----------------------------"
 echo -e "Aktif Sampai: $exp"
-echo -e "==========================="
-echo -e "Script by Mastah YusufArdiansyah"
-echo -e "Team: Deny siswanto (newbie)"	
+echo -e "==========================="	
 #useradd -s /bin/false -M $uname
 	#echo "$uname:$pass" | chpasswd
 	#usermod -e $expdate $uname
@@ -171,18 +169,10 @@ echo "--------------------------------------------------"
 }
 
 clear
-echo "        =====================================================
-        =====================================================
-        #                                                   #
-        #     [SELAMAT DATANG DI VPS YUSUF ARDIANSYAH]      #
-        #                                                   #
-        #           WhatsApp     : 082139743432             #
-        #           Telegram     : e-Server                 #
-        #           Facebook     : fb.com/t34mh4ck3r        #
-        #           Pin-BBM      : yu-suf                   #
-        #                                                   #
-        #            Copyright © yusuf-ardiansyah           #
-        =====================================================
+echo "OWNER : BEGAL_ELITE-TEAM
+BBM   : D2C54FDA / D4FB17CB
+WA    : +6285708173517 / +6282234537749
+===================================================================
 
 ";
 PS3='Silahkan ketik nomor pilihan anda lalu tekan enter: '
